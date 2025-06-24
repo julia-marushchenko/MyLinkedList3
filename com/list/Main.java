@@ -1,4 +1,6 @@
-package com.list;// Java program to demonstrate LinkedList<>
+// Java program to demonstrate LinkedList<>
+
+package com.list;
 
 import java.util.*;
 
